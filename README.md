@@ -1,10 +1,10 @@
 # RecoBTag-PerformanceMeasurements
 
-## Software setup
+## Environment Setup
 
 ```
-cmsrel CMSSW_10_6_8_patch1 
-cd CMSSW_10_6_8_patch1/src
+cmsrel CMSSW_10_6_29
+cd CMSSW_10_6_29/src
 cmsenv
 
 setenv CMSSW_GIT_REFERENCE /cvmfs/cms.cern.ch/cmssw.git.daily
